@@ -9,8 +9,8 @@ const PORT = process.env.PORT || 3000;
 // ==========================================
 // CONFIGURE YOUR TELEGRAM BOT HERE
 // ==========================================
-const BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE';  // Replace with your Telegram Bot Token
-const CHAT_ID = 'YOUR_CHAT_ID_HERE';      // Replace with your Telegram Chat ID
+const BOT_TOKEN = '1973400160:AAG5Fw07mGyUdk72RZDCQLHgQKZ3XD-j1jQ';  // Replace with your Telegram Bot Token
+const CHAT_ID = '1194575718';      // Replace with your Telegram Chat ID
 // ==========================================
 
 app.use(bodyParser.urlencoded({ extended: true }));
